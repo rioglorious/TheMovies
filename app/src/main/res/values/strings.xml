@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="btn_hit">Hit API</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Sub Title</string>
+    <string name="iddetails">ID Details</string>
+    <string name="moviedetails">Movie Details</string>
+    <string name="descriptiondetails">Description Details</string>
+    <string name="titledetails">Title Details</string>
+    <string name="genredetails">Genre Details</string>
+    <string name="ratingdetails">Rating Details</string>
+    <string name="datedetails">Date Details</string>
+    <string name="durationdetails">Duration Details</string>
+    <string name="avgvotedetails">Average Vote Details</string>
+    <string name="resource">Cast Credits</string>
+    <string name="tagline">Tagline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
